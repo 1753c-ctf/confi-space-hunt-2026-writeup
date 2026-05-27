@@ -522,5 +522,4 @@ A few patterns worth taking home:
   source from the clock, and trust that 60 chunks in order would round-
   trip to a file.
 
-Thanks for playing CONFI26. If you have a writeup of your own, send it
-our way — we read every one.
+Thanks for playing our space hunt this year ❤️
