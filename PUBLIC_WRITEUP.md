@@ -190,7 +190,7 @@ Registering a team via the passkey modal on the homepage was enough.
 
 ## Flag 9 — Comment at the top of `/api/docs`
 
-**Where:** `GET /api/docs` — the v2 endpoint catalogue page.
+**Where:** `GET /api/docs` — the v2 endpoint catalogue page. This one was easi to discover with basic wordlist enumeration. During the competition Vercel bacame more aggressive blocking the enumeration, but it was still fairly easy to do it, for example running enumeration inside the web browser that already had the session validated to be human.
 
 **Trick:** the HTML began with the literal comment
 
