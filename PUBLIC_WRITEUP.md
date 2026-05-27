@@ -85,9 +85,7 @@ look at it.
 The SVG was preloaded by `layout.tsx` as a hidden 1×1 image, visible in
 the Network tab or in any bundle grep for `.svg`.
 
-```bash
-open /flag.svg   # or just paste the URL in a browser
-```
+You need to open it in any SVG editor, and remove black box that hides the real flag.
 
 ## Flag 4 — Hex literal in the glitch handler
 
